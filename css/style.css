@@ -1237,6 +1237,21 @@ ul.grid li a,ul.grid li img {
 	  border: none;
 }
 
+/* teaching
+ **************************************************/
+#teaching .pageheader{
+	background-image: url(../img/teaching.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	padding: 190px 0 35px 0;
+}
+
+#teaching .pageheader .title{
+	  color: #fff;
+	  border: none;
+}
+
 /* contact
  **************************************************/
 #contact .pageheader{
