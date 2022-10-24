@@ -1,0 +1,251 @@
+name,cc_by_ip,alpha-3,region,arab_or_region,sub-region,languages,arab,population,human_development_index,human_development_category,expected_years_schooling,mean_years_schooling,gross_national_income_per_capita
+Afghanistan,AF,AFG,Asia,Asia,Southern Asia,"fa-AF,ps,uz-AF,tk",0,36373176,0.479,low_human_development,10.1,3.6,1871
+Aland Islands,AX,ALA,Europe,Europe,Northern Europe,sv-AX,0,26711,,,,,
+Albania,AL,ALB,Europe,Europe,Southern Europe,"sq,el",0,2934363,0.764,high_human_development,14.2,9.6,10252
+Algeria,DZ,DZA,Africa,Arabic,Northern Africa,ar-DZ,1,42008054,0.745,high_human_development,14.4,7.8,13533
+American Samoa,AS,ASM,Oceania,Oceania,Polynesia,"en-AS,sm,to",0,55679,0.827,very_high_human_development,,,
+Andorra,AD,AND,Europe,Europe,Southern Europe,ca,0,76953,0.858,very_high_human_development,13.5,10.3,47979
+Angola,AO,AGO,Africa,Africa,Sub-Saharan Africa,pt-AO,0,30774205,0.533,low_human_development,11.4,5,6291
+Anguilla,AI,AIA,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-AI,0,15045,0.865,very_high_human_development,,,
+Antarctica,AQ,ATA,,,,,0,,,,,,
+Antigua and Barbuda,AG,ATG,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-AG,0,103050,0.786,high_human_development,13.9,9.2,20907
+Argentina,AR,ARG,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"es-AR,en,it,de,fr,gn",0,44688864,0.827,very_high_human_development,17.3,9.9,20945
+Armenia,AM,ARM,Asia,Asia,Western Asia,hy,0,2934152,0.743,high_human_development,12.7,11.3,8189
+Aruba,AW,ABW,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"nl-AW,es,en",0,105670,0.908,very_high_human_development,,,
+Australia,AU,AUS,Oceania,Oceania,Australia and New Zealand,en-AU,0,24772247,0.939,very_high_human_development,20.4,13.2,42822
+Austria,AT,AUT,Europe,Europe,Western Europe,"de-AT,hr,hu,sl",0,8751820,0.893,very_high_human_development,15.9,11.3,43609
+Azerbaijan,AZ,AZE,Asia,Asia,Western Asia,"az,ru,hy",0,9923914,0.759,high_human_development,12.7,11.2,16413
+Bahamas,BS,BHS,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-BS,0,399285,0.792,high_human_development,12.7,10.9,21565
+Bahrain,BH,BHR,Asia,Arabic,Western Asia,"ar-BH,en,fa,ur",1,1566993,0.824,very_high_human_development,14.5,9.4,37236
+Bangladesh,BD,BGD,Asia,Asia,Southern Asia,"bn-BD,en",0,166368149,0.579,medium_human_development,10.2,5.2,3341
+Barbados,BB,BRB,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-BB,0,286388,0.795,high_human_development,15.3,10.5,14952
+Belarus,BY,BLR,Europe,Europe,Eastern Europe,"be,ru",0,9452113,0.796,high_human_development,15.7,12,15629
+Belgium,BE,BEL,Europe,Europe,Western Europe,"nl-BE,fr-BE,de-BE",0,11498519,0.896,very_high_human_development,16.6,11.4,41243
+Belize,BZ,BLZ,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"en-BZ,es",0,382444,0.706,high_human_development,12.8,10.5,7375
+Benin,BJ,BEN,Africa,Africa,Sub-Saharan Africa,fr-BJ,0,11485674,0.485,low_human_development,10.7,3.5,1979
+Bermuda,BM,BMU,Americas,Northern America,Northern America,"en-BM,pt",0,61070,0.981,very_high_human_development,,,
+Bhutan,BT,BTN,Asia,Asia,Southern Asia,dz,0,817054,0.607,medium_human_development,12.5,3.1,7081
+Bolivia (Plurinational State of),BO,BOL,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"es-BO,qu,ay",0,11215674,0.674,medium_human_development,13.8,8.2,6155
+"Bonaire, Sint Eustatius and Saba",BQ,BES,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"nl,pap,en",0,25702,,,,,
+Bosnia and Herzegovina,BA,BIH,Europe,Europe,Southern Europe,"bs,hr-BA,sr-BA",0,3503554,0.75,high_human_development,14.2,9,10091
+Botswana,BW,BWA,Africa,Africa,Sub-Saharan Africa,"en-BW,tn-BW",0,2333201,0.698,medium_human_development,12.6,9.2,14663
+Bouvet Island,BV,BVT,Americas,Latin America and the Caribbean,Latin America and the Caribbean,,0,,,,,,
+Brazil,BR,BRA,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"pt-BR,es,en,fr",0,210867954,0.754,high_human_development,15.2,7.8,14145
+British Indian Ocean Territory,IO,IOT,Africa,Africa,Sub-Saharan Africa,en-IO,0,4000,,,,,
+Brunei Darussalam,BN,BRN,Asia,Asia,South-eastern Asia,"ms-BN,en-BN",0,434076,0.865,very_high_human_development,14.9,9,72843
+Bulgaria,BG,BGR,Europe,Europe,Eastern Europe,"bg,tr-BG,rom",0,7036848,0.794,high_human_development,15,10.8,16261
+Burkina Faso,BF,BFA,Africa,Africa,Sub-Saharan Africa,fr-BF,0,19751651,0.402,low_human_development,7.7,1.4,1537
+Burundi,BI,BDI,Africa,Africa,Sub-Saharan Africa,"fr-BI,rn",0,11216450,0.404,low_human_development,10.6,3,691
+Cabo Verde,CV,CPV,Africa,Africa,Sub-Saharan Africa,pt-CV,0,553335,0.648,medium_human_development,13.5,4.8,6049
+Cambodia,KH,KHM,Asia,Asia,South-eastern Asia,"km,fr,en",0,16245729,0.563,medium_human_development,10.9,4.7,3095
+Cameroon,CM,CMR,Africa,Africa,Sub-Saharan Africa,"en-CM,fr-CM",0,24678234,0.518,low_human_development,10.4,6.1,2894
+Canada,CA,CAN,Americas,Northern America,Northern America,"en-CA,fr-CA,iu",0,36953765,0.92,very_high_human_development,16.3,13.1,42582
+Cayman Islands,KY,CYM,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-KY,0,62348,0.983,very_high_human_development,,,
+Central African Republic,CF,CAF,Africa,Africa,Sub-Saharan Africa,"fr-CF,sg,ln,kg",0,4737423,0.352,low_human_development,7.1,4.2,587
+Chad,TD,TCD,Africa,Africa,Sub-Saharan Africa,"fr-TD,ar-TD,sre",0,15353184,0.396,low_human_development,7.3,2.3,1991
+Chile,CL,CHL,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-CL,0,18197209,0.847,very_high_human_development,16.3,9.9,21665
+China,CN,CHN,Asia,Asia,Eastern Asia,"zh-CN,yue,wuu,dta,ug,za",0,1415045928,0.738,high_human_development,13.5,7.6,13345
+Christmas Island,CX,CXR,Oceania,Oceania,Australia and New Zealand,"en,zh,ms-CC",0,1500,,,,,
+Cocos (Keeling) Islands,CC,CCK,Oceania,Oceania,Australia and New Zealand,"ms-CC,en",0,628,,,,,
+Colombia,CO,COL,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-CO,0,49464683,0.727,high_human_development,13.6,7.6,12762
+Comoros,KM,COM,Africa,Arabic,Sub-Saharan Africa,"ar,fr-KM",1,832347,0.497,low_human_development,11.1,4.8,1335
+Congo,CG,COG,Africa,Africa,Sub-Saharan Africa,"fr-CG,kg,ln-CG",0,5399895,0.592,medium_human_development,11.1,6.3,5503
+Congo (Democratic Republic of the),CD,COD,Africa,Africa,Sub-Saharan Africa,"fr-CD,ln,kg",0,84004989,0.435,low_human_development,9.8,6.1,680
+Cook Islands,CK,COK,Oceania,Oceania,Polynesia,"en-CK,mi",0,17411,0.829,very_high_human_development,,,
+Costa Rica,CR,CRI,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"es-CR,en",0,4953199,0.776,high_human_development,14.2,8.7,14006
+Cote d'Ivoire,CI,CIV,Africa,Africa,Sub-Saharan Africa,fr-CI,0,24905843,0.474,low_human_development,8.9,5,3163
+Croatia,HR,HRV,Europe,Europe,Southern Europe,"hr-HR,sr",0,4164783,0.827,very_high_human_development,15.3,11.2,20291
+Cuba,CU,CUB,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-CU,0,11489082,0.775,high_human_development,13.9,11.8,7455
+Curacao,CW,CUW,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"nl,pap",0,161577,0.404,low_human_development,10.6,,
+Cyprus,CY,CYP,Asia,Asia,Western Asia,"el-CY,tr-CY,en",0,1189085,0.856,very_high_human_development,14.3,11.7,29459
+Czechia,CZ,CZE,Europe,Europe,Eastern Europe,"cs,sk",0,10625250,0.878,very_high_human_development,16.8,12.3,28144
+Denmark,DK,DNK,Europe,Europe,Northern Europe,"da-DK,en,fo,de-DK",0,5754356,0.925,very_high_human_development,19.2,12.7,44519
+Djibouti,DJ,DJI,Africa,Arabic,Sub-Saharan Africa,"fr-DJ,ar,so-DJ,aa",1,971408,0.473,low_human_development,6.3,4.1,3216
+Dominica,DM,DMA,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-DM,0,74308,0.726,high_human_development,12.8,7.9,10096
+Dominican Republic,DO,DOM,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-DO,0,10882996,0.722,high_human_development,13.2,7.7,12756
+Ecuador,EC,ECU,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-EC,0,16863425,0.739,high_human_development,14,8.3,10536
+Egypt,EG,EGY,Africa,Arabic,Northern Africa,"ar-EG,en,fr",1,99375741,0.691,medium_human_development,13.1,7.1,10064
+El Salvador,SV,SLV,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-SV,0,6411558,0.68,medium_human_development,13.2,6.5,7732
+Equatorial Guinea,GQ,GNQ,Africa,Africa,Sub-Saharan Africa,"es-GQ,fr",0,1313894,0.592,medium_human_development,9.2,5.5,21517
+Eritrea,ER,ERI,Africa,Africa,Sub-Saharan Africa,"aa-ER,ar,tig,kun,ti-ER",0,5187948,0.42,low_human_development,5,3.9,1490
+Estonia,EE,EST,Europe,Europe,Northern Europe,"et,ru",0,1306788,0.865,very_high_human_development,16.5,12.5,26362
+Ethiopia,ET,ETH,Africa,Africa,Sub-Saharan Africa,"am,en-ET,om-ET,ti-ET,so-ET,sid",0,107534882,0.448,low_human_development,8.4,2.6,1523
+Falkland Islands (Malvinas),FK,FLK,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-FK,0,2922,0.933,very_high_human_development,,,
+Faroe Islands,FO,FRO,Europe,Europe,Northern Europe,"fo,da-FO",0,49489,0.95,very_high_human_development,,,
+Fiji,FJ,FJI,Oceania,Oceania,Melanesia,"en-FJ,fj",0,912241,0.736,high_human_development,15.3,10.5,8245
+Finland,FI,FIN,Europe,Europe,Northern Europe,"fi-FI,sv-FI,smn",0,5542517,0.895,very_high_human_development,17,11.2,38868
+France,FR,FRA,Europe,Europe,Western Europe,"fr-FR,frp,br,co,ca,eu,oc",0,65233271,0.897,very_high_human_development,16.3,11.6,38085
+French Guiana,GF,GUF,Americas,Latin America and the Caribbean,Latin America and the Caribbean,fr-GF,0,289763,0.739,high_human_development,,,
+French Polynesia,PF,PYF,Oceania,Oceania,Polynesia,"fr-PF,ty",0,285859,0.737,high_human_development,,,
+French Southern Territories,TF,ATF,Africa,Africa,Sub-Saharan Africa,fr,0,140,,,,,
+Gabon,GA,GAB,Africa,Africa,Sub-Saharan Africa,fr-GA,0,2067561,0.697,medium_human_development,12.6,8.1,19044
+Gambia,GM,GMB,Africa,Africa,Sub-Saharan Africa,"en-GM,mnk,wof,wo,ff",0,2163765,0.452,low_human_development,8.9,3.3,1541
+Georgia,GE,GEO,Asia,Asia,Western Asia,"ka,ru,hy,az",0,3907131,0.769,high_human_development,13.9,12.2,8856
+Germany,DE,DEU,Europe,Europe,Western Europe,de,0,82293457,0.926,very_high_human_development,17.1,13.2,45000
+Ghana,GH,GHA,Africa,Africa,Sub-Saharan Africa,"en-GH,ak,ee,tw",0,29463643,0.579,medium_human_development,11.5,6.9,3839
+Gibraltar,GI,GIB,Europe,Europe,Southern Europe,"en-GI,es,it,pt",0,34733,0.961,very_high_human_development,,,
+Greece,GR,GRC,Europe,Europe,Southern Europe,"el-GR,en,fr",0,11142161,0.866,very_high_human_development,17.2,10.5,24808
+Greenland,GL,GRL,Americas,Northern America,Northern America,"kl,da-GL,en",0,56565,0.869,very_high_human_development,,,
+Grenada,GD,GRD,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-GD,0,108339,0.754,high_human_development,15.8,8.6,11502
+Guadeloupe,GP,GLP,Americas,Latin America and the Caribbean,Latin America and the Caribbean,fr-GP,0,449173,0.822,very_high_human_development,,,
+Guam,GU,GUM,Oceania,Oceania,Micronesia,"en-GU,ch-GU",0,165718,0.901,very_high_human_development,,,
+Guatemala,GT,GTM,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-GT,0,17245346,0.64,medium_human_development,10.7,6.3,7063
+Guernsey,GG,GGY,Europe,Europe,Northern Europe,"en,fr",0,65228,0.975,very_high_human_development,,,
+Guinea,GN,GIN,Africa,Africa,Sub-Saharan Africa,fr-GN,0,13052608,0.414,low_human_development,8.8,2.6,1058
+Guinea-Bissau,GW,GNB,Africa,Africa,Sub-Saharan Africa,"pt-GW,pov",0,1907268,0.424,low_human_development,9.2,2.9,1369
+Guyana,GY,GUY,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-GY,0,782225,0.638,medium_human_development,10.3,8.4,6884
+Haiti,HT,HTI,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"ht,fr-HT",0,11112945,0.493,low_human_development,9.1,5.2,1657
+Heard Island and McDonald Islands,HM,HMD,Oceania,Oceania,Australia and New Zealand,,0,,,,,,
+Holy See,VA,VAT,Europe,Europe,Southern Europe,"la,it,fr",0,801,,,,,
+Honduras,HN,HND,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-HN,0,9417167,0.625,medium_human_development,11.2,6.2,4466
+Hong Kong,HK,HKG,Asia,Asia,Eastern Asia,"zh-HK,yue,zh,en",0,7428887,0.917,very_high_human_development,15.7,11.6,54265
+Hungary,HU,HUN,Europe,Europe,Eastern Europe,hu-HU,0,9688847,0.836,very_high_human_development,15.6,12,23394
+Iceland,IS,ISL,Europe,Europe,Northern Europe,"is,en,de,da,sv,no",0,337780,0.921,very_high_human_development,19,12.2,37065
+India,IN,IND,Asia,Asia,Southern Asia,"en-IN,hi,bn,te,mr,ta,ur,gu,kn,ml,or,pa,as,bh,sat,ks,ne,sd,kok,doi,mni,sit,sa,fr,lus,inc",0,1354051854,0.624,medium_human_development,11.7,6.3,5663
+Indonesia,ID,IDN,Asia,Asia,South-eastern Asia,"id,en,nl,jv",0,266794980,0.689,medium_human_development,12.9,7.9,10053
+Iran (Islamic Republic of),IR,IRN,Asia,Asia,Southern Asia,"fa-IR,ku",0,82011735,0.774,high_human_development,14.8,8.8,16395
+Iraq,IQ,IRQ,Asia,Arabic,Western Asia,"ar-IQ,ku,hy",1,39339753,0.649,medium_human_development,10.1,6.6,11608
+Ireland,IE,IRL,Europe,Europe,Northern Europe,"en-IE,ga-IE",0,4803748,0.923,very_high_human_development,18.6,12.3,43798
+Isle of Man,IM,IMN,Europe,Europe,Northern Europe,"en,gv",0,84831,0.95,very_high_human_development,,,
+Israel,IL,ISR,Asia,Asia,Western Asia,"he,ar-IL,en-IL,",0,8452841,0.899,very_high_human_development,16,12.8,31215
+Italy,IT,ITA,Europe,Europe,Southern Europe,"it-IT,de-IT,fr-IT,sc,ca,co,sl",0,59290969,0.887,very_high_human_development,16.3,10.9,33573
+Jamaica,JM,JAM,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-JM,0,2898677,0.73,high_human_development,12.8,9.6,8350
+Japan,JP,JPN,Asia,Asia,Eastern Asia,ja,0,127185332,0.903,very_high_human_development,15.3,12.5,37268
+Jersey,JE,JEY,Europe,Europe,Northern Europe,"en,pt",0,90812,0.985,very_high_human_development,,,
+Jordan,JO,JOR,Asia,Arabic,Western Asia,"ar-JO,en",1,9903802,0.741,high_human_development,13.1,10.1,10111
+Kazakhstan,KZ,KAZ,Asia,Asia,Central Asia,"kk,ru",0,18403860,0.794,high_human_development,15,11.7,22093
+Kenya,KE,KEN,Africa,Africa,Sub-Saharan Africa,"en-KE,sw-KE",0,50950879,0.555,medium_human_development,11.1,6.3,2881
+Kiribati,KI,KIR,Oceania,Oceania,Micronesia,"en-KI,gil",0,118414,0.588,medium_human_development,11.9,7.8,2475
+Korea (Democratic People's Republic of),KP,PRK,Asia,Asia,Eastern Asia,ko-KP,0,25610672,0.733,high_human_development,16.6,12,1800
+Korea (Republic of),KR,KOR,Asia,Asia,Eastern Asia,"ko-KR,en",0,51164435,0.901,very_high_human_development,16.6,12.2,34541
+Kuwait,KW,KWT,Asia,Arabic,Western Asia,"ar-KW,en",1,4197128,0.8,very_high_human_development,13.3,7.3,76075
+Kyrgyzstan,KG,KGZ,Asia,Asia,Central Asia,"ky,uz,ru",0,6132932,0.664,medium_human_development,13,10.8,3097
+Lao People's Democratic Republic,LA,LAO,Asia,Asia,South-eastern Asia,"lo,fr,en",0,6961210,0.586,medium_human_development,10.8,5.2,5049
+Latvia,LV,LVA,Europe,Europe,Northern Europe,"lv,ru,lt",0,1929938,0.83,very_high_human_development,16,11.7,22589
+Lebanon,LB,LBN,Asia,Arabic,Western Asia,"ar-LB,fr-LB,en,hy",1,6093509,0.763,high_human_development,13.3,8.6,13312
+Lesotho,LS,LSO,Africa,Africa,Sub-Saharan Africa,"en-LS,st,zu,xh",0,2263010,0.497,low_human_development,10.7,6.1,3319
+Liberia,LR,LBR,Africa,Africa,Sub-Saharan Africa,en-LR,0,4853516,0.427,low_human_development,9.9,4.4,683
+Libya,LY,LBY,Africa,Arabic,Northern Africa,"ar-LY,it,en",1,6470956,0.716,high_human_development,13.4,7.3,14303
+Liechtenstein,LI,LIE,Europe,Europe,Western Europe,de-LI,0,38155,0.912,very_high_human_development,14.6,12.4,75065
+Lithuania,LT,LTU,Europe,Europe,Northern Europe,"lt,ru,pl",0,2876475,0.848,very_high_human_development,16.5,12.7,26006
+Luxembourg,LU,LUX,Europe,Europe,Western Europe,"lb,de-LU,fr-LU",0,590321,0.898,very_high_human_development,13.9,12,62471
+Macao,MO,MAC,Asia,Asia,Eastern Asia,"zh,zh-MO,pt",0,632418,0.905,very_high_human_development,,,
+Macedonia (the former Yugoslav Republic of),MK,MKD,Europe,Europe,Southern Europe,"mk,sq,tr,rmm,sr",0,2085051,0.748,high_human_development,12.9,9.4,12405
+Madagascar,MG,MDG,Africa,Africa,Sub-Saharan Africa,"fr-MG,mg",0,26262810,0.512,low_human_development,10.3,6.1,1320
+Malawi,MW,MWI,Africa,Africa,Sub-Saharan Africa,"ny,yao,tum,swk",0,19164728,0.476,low_human_development,10.8,4.4,1073
+Malaysia,MY,MYS,Asia,Asia,South-eastern Asia,"ms-MY,en,zh,ta,te,ml,pa,th",0,32042458,0.789,high_human_development,13.1,10.1,24620
+Maldives,MV,MDV,Asia,Asia,Southern Asia,"dv,en",0,444259,0.701,high_human_development,12.7,6.2,10383
+Mali,ML,MLI,Africa,Africa,Sub-Saharan Africa,"fr-ML,bm",0,19107706,0.442,low_human_development,8.4,2.3,2218
+Malta,MT,MLT,Europe,Europe,Southern Europe,"mt,en-MT",0,432089,0.856,very_high_human_development,14.6,11.3,29500
+Marshall Islands,MH,MHL,Oceania,Oceania,Micronesia,"mh,en-MH",0,53167,0.738,high_human_development,,,4412
+Martinique,MQ,MTQ,Americas,Latin America and the Caribbean,Latin America and the Caribbean,fr-MQ,0,385065,0.813,very_high_human_development,,,
+Mauritania,MR,MRT,Africa,Arabic,Sub-Saharan Africa,"ar-MR,fuc,snk,fr,mey,wo",1,4540068,0.513,low_human_development,8.5,4.3,3527
+Mauritius,MU,MUS,Africa,Africa,Sub-Saharan Africa,"en-MU,bho,fr",0,1268315,0.781,high_human_development,15.2,9.1,17948
+Mayotte,YT,MYT,Africa,Africa,Sub-Saharan Africa,fr-YT,0,259682,0.653,medium_human_development,,,
+Mexico,MX,MEX,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-MX,0,130759074,0.762,high_human_development,13.3,8.6,16383
+Micronesia (Federated States of),FM,FSM,Oceania,Oceania,Micronesia,"en-FM,chk,pon,yap,kos,uli,woe,nkr,kpg",0,106227,0.638,medium_human_development,11.7,9.7,3291
+Moldova (Republic of),MD,MDA,Europe,Europe,Eastern Europe,"ro,ru,gag,tr",0,4041065,0.699,medium_human_development,11.8,11.9,5026
+Monaco,MC,MCO,Europe,Europe,Western Europe,"fr-MC,en,it",0,38897,0.956,very_high_human_development,,,168000
+Mongolia,MN,MNG,Asia,Asia,Eastern Asia,"mn,ru",0,3121772,0.735,high_human_development,14.8,9.8,10449
+Montenegro,ME,MNE,Europe,Europe,Southern Europe,"sr,hu,bs,sq,hr,rom",0,629219,0.807,very_high_human_development,15.1,11.3,15410
+Montserrat,MS,MSR,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-MS,0,5203,0.822,very_high_human_development,,,
+Morocco,MA,MAR,Africa,Arabic,Northern Africa,"ar-MA,fr",1,36191805,0.647,medium_human_development,12.1,5,7195
+Mozambique,MZ,MOZ,Africa,Africa,Sub-Saharan Africa,"pt-MZ,vmw",0,30528673,0.418,low_human_development,9.1,3.5,1098
+Myanmar,MM,MMR,Asia,Asia,South-eastern Asia,my,0,53855735,0.556,medium_human_development,9.1,4.7,4943
+Namibia,NA,NAM,Africa,Africa,Sub-Saharan Africa,"en-NA,af,de,hz,naq",0,2587801,0.64,medium_human_development,11.7,6.7,9770
+Nauru,NR,NRU,Oceania,Oceania,Micronesia,"na,en-NR",0,11312,0.721,high_human_development,,,
+Nepal,NP,NPL,Asia,Asia,Southern Asia,"ne,en",0,29624035,0.558,medium_human_development,12.2,4.1,2337
+Netherlands,NL,NLD,Europe,Europe,Western Europe,"nl-NL,fy-NL",0,17084459,0.924,very_high_human_development,18.1,11.9,46326
+New Caledonia,NC,NCL,Oceania,Oceania,Melanesia,fr-NC,0,279821,0.789,high_human_development,,,
+New Zealand,NZ,NZL,Oceania,Oceania,Australia and New Zealand,"en-NZ,mi",0,4749598,0.915,very_high_human_development,19.2,12.5,32870
+Nicaragua,NI,NIC,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"es-NI,en",0,6284757,0.645,medium_human_development,11.7,6.5,4747
+Niger,NE,NER,Africa,Africa,Sub-Saharan Africa,"fr-NE,ha,kr,dje",0,22311375,0.353,low_human_development,5.4,1.7,889
+Nigeria,NG,NGA,Africa,Africa,Sub-Saharan Africa,"en-NG,ha,yo,ig,ff",0,195875237,0.527,low_human_development,10,6,5443
+Niue,NU,NIU,Oceania,Oceania,Polynesia,"niu,en-NU",0,1624,0.794,high_human_development,,,
+Norfolk Island,NF,NFK,Oceania,Oceania,Australia and New Zealand,en-NF,0,2169,0.958,very_high_human_development,,,
+Northern Mariana Islands,MP,MNP,Oceania,Oceania,Micronesia,"fil,tl,zh,ch-MP,en-MP",0,55194,0.875,very_high_human_development,,,
+Norway,NO,NOR,Europe,Europe,Northern Europe,"no,nb,nn,se,fi",0,5353363,0.949,very_high_human_development,17.7,12.7,67614
+Oman,OM,OMN,Asia,Arabic,Western Asia,"ar-OM,en,bal,ur",1,4829946,0.796,high_human_development,13.7,8.1,34402
+Pakistan,PK,PAK,Asia,Asia,Southern Asia,"ur-PK,en-PK,pa,sd,ps,brh",0,200813818,0.55,medium_human_development,8.1,5.1,5031
+Palau,PW,PLW,Oceania,Oceania,Micronesia,"pau,sov,en-PW,tox,ja,fil,zh",0,21964,0.788,high_human_development,14.3,12.3,13771
+"Palestine, State of",PS,PSE,Asia,Arabic,Western Asia,ar-PS,1,5052776,0.684,medium_human_development,12.8,8.9,5256
+Panama,PA,PAN,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"es-PA,en",0,4162618,0.788,high_human_development,13,9.9,19470
+Papua New Guinea,PG,PNG,Oceania,Oceania,Melanesia,"en-PG,ho,meu,tpi",0,8418346,0.516,low_human_development,9.9,4.3,2712
+Paraguay,PY,PRY,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"es-PY,gn",0,6896908,0.693,medium_human_development,12.3,8.1,8182
+Peru,PE,PER,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"es-PE,qu,ay",0,32551815,0.74,high_human_development,13.4,9,11295
+Philippines,PH,PHL,Asia,Asia,South-eastern Asia,"tl,en-PH,fil",0,106512074,0.682,medium_human_development,11.7,9.3,8395
+Pitcairn,PN,PCN,Oceania,Oceania,Polynesia,en-PN,0,,,,,,
+Poland,PL,POL,Europe,Europe,Eastern Europe,pl,0,38104832,0.855,very_high_human_development,16.4,11.9,24117
+Portugal,PT,PRT,Europe,Europe,Southern Europe,"pt-PT,mwl",0,10291196,0.843,very_high_human_development,16.6,8.9,26104
+Puerto Rico,PR,PRI,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"en-PR,es-PR",0,3659007,0.845,very_high_human_development,,,
+Qatar,QA,QAT,Asia,Arabic,Western Asia,"ar-QA,es",1,2694849,0.856,very_high_human_development,13.4,9.8,129916
+Reunion,RE,REU,Africa,Africa,Sub-Saharan Africa,fr-RE,0,883247,0.75,high_human_development,,,
+Romania,RO,ROU,Europe,Europe,Eastern Europe,"ro,hu,rom",0,19580634,0.802,very_high_human_development,14.7,10.8,19428
+Russian Federation,RU,RUS,Europe,Europe,Eastern Europe,"ru,tt,xal,cau,ady,kv,ce,tyv,cv,udm,tut,mns,bua,myv,mdf,chm,ba,inh,tut,kbd,krc,ava,sah,nog",0,143964709,0.804,very_high_human_development,15,12,23286
+Rwanda,RW,RWA,Africa,Africa,Sub-Saharan Africa,"rw,en-RW,fr-RW,sw",0,12501156,0.498,low_human_development,10.8,3.8,1617
+Saint Barthelemy,BL,BLM,Americas,Latin America and the Caribbean,Latin America and the Caribbean,fr,0,9279,0.688,medium_human_development,,,
+"Saint Helena, Ascension and Tristan da Cunha",SH,SHN,Africa,Africa,Sub-Saharan Africa,en-SH,0,4074,0.797,high_human_development,,,
+Saint Kitts and Nevis,KN,KNA,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-KN,0,55850,0.765,high_human_development,13.7,8.4,22436
+Saint Lucia,LC,LCA,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-LC,0,179667,0.735,high_human_development,13.1,9.3,9791
+Saint Martin (French part),MF,MAF,Americas,Latin America and the Caribbean,Latin America and the Caribbean,fr,0,36286,0.702,high_human_development,,,
+Saint Pierre and Miquelon,PM,SPM,Americas,Northern America,Northern America,fr-PM,0,6342,0.762,high_human_development,,,
+Saint Vincent and the Grenadines,VC,VCT,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"en-VC,fr",0,110200,0.722,high_human_development,13.3,8.6,10372
+Samoa,WS,WSM,Oceania,Oceania,Polynesia,"sm,en-WS",0,197695,0.704,high_human_development,12.9,10.3,5372
+San Marino,SM,SMR,Europe,Europe,Southern Europe,it-SM,0,33557,0.961,very_high_human_development,15.1,,50063
+Sao Tome and Principe,ST,STP,Africa,Africa,Sub-Saharan Africa,pt-ST,0,208818,0.574,medium_human_development,12,5.3,3070
+Saudi Arabia,SA,SAU,Asia,Arabic,Western Asia,ar-SA,1,33554343,0.847,very_high_human_development,16.1,9.6,51320
+Senegal,SN,SEN,Africa,Africa,Sub-Saharan Africa,"fr-SN,wo,fuc,mnk",0,16294270,0.494,low_human_development,9.5,2.8,2250
+Serbia,RS,SRB,Europe,Europe,Southern Europe,"sr,hu,bs,rom",0,8762027,0.776,high_human_development,14.4,10.8,12202
+Seychelles,SC,SYC,Africa,Africa,Sub-Saharan Africa,"en-SC,fr-SC",0,95235,0.782,high_human_development,14.1,9.4,23886
+Sierra Leone,SL,SLE,Africa,Africa,Sub-Saharan Africa,"en-SL,men,tem",0,7719729,0.42,low_human_development,9.5,3.3,1529
+Singapore,SG,SGP,Asia,Asia,South-eastern Asia,"cmn,en-SG,ms-SG,ta-SG,zh-SG",0,5791901,0.925,very_high_human_development,15.4,11.6,78162
+Sint Maarten (Dutch part),SX,SXM,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"nl,en",0,40552,,,,,
+Slovakia,SK,SVK,Europe,Europe,Eastern Europe,"sk,hu",0,5449816,0.845,very_high_human_development,15,12.2,26764
+Slovenia,SI,SVN,Europe,Europe,Southern Europe,"sl,sh",0,2081260,0.89,very_high_human_development,17.3,12.1,28664
+Solomon Islands,SB,SLB,Oceania,Oceania,Melanesia,"en-SB,tpi",0,623281,0.515,low_human_development,9.6,5.3,1561
+Somalia,SO,SOM,Africa,Arabic,Sub-Saharan Africa,"so-SO,ar-SO,it,en-SO",1,15181925,0.364,low_human_development,,,294
+South Africa,ZA,ZAF,Africa,Africa,Sub-Saharan Africa,"zu,xh,af,nso,en-ZA,tn,st,ts,ss,ve,nr",0,57398421,0.666,medium_human_development,13,10.3,12087
+South Georgia and the South Sandwich Islands,GS,SGS,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en,0,,,,,,
+South Sudan,SS,SSD,Africa,Africa,Sub-Saharan Africa,en,0,12919053,0.418,low_human_development,4.9,4.8,1882
+Spain,ES,ESP,Europe,Europe,Southern Europe,"es-ES,ca,gl,eu,oc",0,46397452,0.884,very_high_human_development,17.7,9.8,32779
+Sri Lanka,LK,LKA,Asia,Asia,Southern Asia,"si,ta,en",0,20950041,0.766,high_human_development,14,10.9,10789
+Sudan,SD,SDN,Africa,Arabic,Northern Africa,"ar-SD,en,fia",1,41511526,0.49,low_human_development,7.2,3.5,3846
+Suriname,SR,SUR,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"nl-SR,en,srn,hns,jv",0,568301,0.725,high_human_development,12.7,8.3,16018
+Svalbard and Jan Mayen,SJ,SJM,Europe,Europe,Northern Europe,"no,ru",0,,,,,,
+Swaziland,SZ,SWZ,Africa,Africa,Sub-Saharan Africa,"en-SZ,ss-SZ",0,1391385,0.541,low_human_development,11.4,6.8,7522
+Sweden,SE,SWE,Europe,Europe,Northern Europe,"sv-SE,se,sma,fi-SE",0,9982709,0.913,very_high_human_development,16.1,12.3,46251
+Switzerland,CH,CHE,Europe,Europe,Western Europe,"de-CH,fr-CH,it-CH,rm",0,8544034,0.939,very_high_human_development,16,13.4,56364
+Syrian Arab Republic,SY,SYR,Asia,Arabic,Western Asia,"ar-SY,ku,hy,arc,fr,en",1,18284407,0.536,low_human_development,9,5.1,2441
+"Taiwan, Province of China",TW,TWN,Asia,Asia,Eastern Asia,"zh-TW,zh,nan,hak",0,23694089,0.738,high_human_development,13.5,7.6,13345
+Tajikistan,TJ,TJK,Asia,Asia,Central Asia,"tg,ru",0,9107211,0.627,medium_human_development,11.3,10.4,2601
+"Tanzania, United Republic of",TZ,TZA,Africa,Africa,Sub-Saharan Africa,"sw-TZ,en,ar",0,59091392,0.531,low_human_development,8.9,5.8,2467
+Thailand,TH,THA,Asia,Asia,South-eastern Asia,"th,en",0,69183173,0.74,high_human_development,13.6,7.9,14519
+Timor-Leste,TL,TLS,Asia,Asia,South-eastern Asia,"tet,pt-TL,id,en",0,1324094,0.605,medium_human_development,12.5,4.4,5371
+Togo,TG,TGO,Africa,Africa,Sub-Saharan Africa,"fr-TG,ee,hna,kbp,dag,ha",0,7990926,0.487,low_human_development,12,4.7,1262
+Tokelau,TK,TKL,Oceania,Oceania,Polynesia,"tkl,en-TK",0,1319,0.75,high_human_development,,,
+Tonga,TO,TON,Oceania,Oceania,Polynesia,"to,en-TO",0,109008,0.721,high_human_development,14.3,11.1,5284
+Trinidad and Tobago,TT,TTO,Americas,Latin America and the Caribbean,Latin America and the Caribbean,"en-TT,hns,fr,es,zh",0,1372598,0.78,high_human_development,12.7,10.9,28049
+Tunisia,TN,TUN,Africa,Arabic,Northern Africa,"ar-TN,fr",1,11659174,0.725,high_human_development,14.6,7.1,10249
+Turkey,TR,TUR,Asia,Asia,Western Asia,"tr-TR,ku,diq,az,av",0,81916871,0.767,high_human_development,14.6,7.9,18705
+Turkmenistan,TM,TKM,Asia,Asia,Central Asia,"tk,ru,uz",0,5851466,0.691,medium_human_development,10.8,9.9,14026
+Turks and Caicos Islands,TC,TCA,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-TC,0,35963,0.873,very_high_human_development,,,
+Tuvalu,TV,TUV,Oceania,Oceania,Polynesia,"tvl,en,sm,gil",0,11287,0.711,high_human_development,,,2970
+Uganda,UG,UGA,Africa,Africa,Sub-Saharan Africa,"en-UG,lg,sw,ar",0,44270563,0.493,low_human_development,10,5.7,1670
+Ukraine,UA,UKR,Europe,Europe,Eastern Europe,"uk,ru-UA,rom,pl,hu",0,44009214,0.743,high_human_development,15.3,11.3,7361
+United Arab Emirates,AE,ARE,Asia,Arabic,Western Asia,"ar-AE,fa,en,hi,ur",1,9541615,0.84,very_high_human_development,13.3,9.5,66203
+United Kingdom of Great Britain and Northern Ireland,GB,GBR,Europe,Europe,Northern Europe,"en-GB,cy-GB,gd",0,66573504,0.909,very_high_human_development,16.3,13.3,37931
+United States of America,US,USA,Americas,Northern America,Northern America,"en-US,es-US,haw,fr",0,326766748,0.92,very_high_human_development,16.5,13.2,53245
+United States Minor Outlying Islands,UM,UMI,Oceania,Oceania,Micronesia,en-UM,0,,,,,,
+Uruguay,UY,URY,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-UY,0,3469551,0.795,high_human_development,15.5,8.6,19148
+Uzbekistan,UZ,UZB,Asia,Asia,Central Asia,"uz,ru,tg",0,32364996,0.701,high_human_development,12.2,12,5748
+Vanuatu,VU,VUT,Oceania,Oceania,Melanesia,"bi,en-VU,fr-VU",0,282117,0.597,medium_human_development,10.8,6.8,2805
+Venezuela (Bolivarian Republic of),VE,VEN,Americas,Latin America and the Caribbean,Latin America and the Caribbean,es-VE,0,32381221,0.767,high_human_development,14.3,9.4,15129
+Viet Nam,VN,VNM,Asia,Asia,South-eastern Asia,"vi,en,fr,zh,km",0,96491146,0.683,medium_human_development,12.6,8,5335
+Virgin Islands (British),VG,VGB,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-VG,0,31719,0.945,very_high_human_development,,,
+Virgin Islands (U.S.),VI,VIR,Americas,Latin America and the Caribbean,Latin America and the Caribbean,en-VI,0,104914,0.894,very_high_human_development,,,
+Wallis and Futuna,WF,WLF,Oceania,Oceania,Polynesia,"wls,fud,fr-WF",0,11683,0.763,high_human_development,,,
+Western Sahara,EH,ESH,Africa,Africa,Northern Africa,"ar,mey",0,567421,,,,,
+Yemen,YE,YEM,Asia,Arabic,Western Asia,ar-YE,1,28915284,0.482,low_human_development,9,3,2300
+Zambia,ZM,ZMB,Africa,Africa,Sub-Saharan Africa,"en-ZM,bem,loz,lun,lue,ny,toi",0,17609178,0.579,medium_human_development,12.5,6.9,3464
+Zimbabwe,ZW,ZWE,Africa,Africa,Sub-Saharan Africa,"en-ZW,sn,nr,nd",0,16913261,0.516,low_human_development,10.3,7.7,1588
+Unknown,XX,XXX,Unknown,Unknown,Unknown,,,,,,,,
